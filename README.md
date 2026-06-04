@@ -31,7 +31,6 @@ insights that drive decisions.
   sellers, products, product_category_translation, geolocation
 
 ![Schema Diagram](schema.png)
-
 ---
 
 ## Key Findings
@@ -131,3 +130,4 @@ reviews are the lagging indicator.
 ---
 
 ## Project Structure
+![Project Structure](project structure.png)
