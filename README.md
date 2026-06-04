@@ -30,7 +30,7 @@ insights that drive decisions.
 - **Tables:** orders, order_items, order_payments, order_reviews, customers, 
   sellers, products, product_category_translation, geolocation
 
-![Schema Diagram](data/schema.png)
+![Schema Diagram](schema.png)
 
 ---
 
