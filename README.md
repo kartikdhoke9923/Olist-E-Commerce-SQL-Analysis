@@ -130,4 +130,4 @@ reviews are the lagging indicator.
 ---
 
 ## Project Structure
-![Project Structure](project structure.png)
+![Project Structure](project_structure.png)
